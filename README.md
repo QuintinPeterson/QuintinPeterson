@@ -1,5 +1,4 @@
-- 🌱 I’m currently learning advanced C++, C, operating systems, and linux kernel in this order!
-- 🤔 I’m looking for help with setting up linux soon.
+- 🌱 I’m currently learning C, operating systems, and linux kernel in this order!
 - 📫 How to reach me: quintinp311204@gmail.com.
 <!--
 **QuintinPeterson/QuintinPeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
