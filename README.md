@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning C, operating systems, and linux kernel in this order!
-- 20
-- Studying at ACC but transfering in spring 2026 to Texas State
+- 🥳 20
+- 👨🏽‍🏫 Studying at ACC but transfering in spring 2026 to Texas State
 - 📫 How to reach me: quintinp311204@gmail.com.
 <!--
 **QuintinPeterson/QuintinPeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
