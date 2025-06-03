@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning C, operating systems, and linux debice drivers in this order!
+- 🌱 I’m currently learning C, operating systems, and linux device drivers in this order!
 - 🥳 20
 - 👨🏽‍🏫 Studying at ACC but transfering in spring 2026 to Texas State
 - 📫 How to reach me: quintinp311204@gmail.com.
