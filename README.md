@@ -1,7 +1,8 @@
-- 🌱 I’m currently learning C, operating systems, and linux device drivers in this order!
-- 🥳 20
-- 👨🏽‍🏫 Studying at ACC but transfering in spring 2026 to Texas State
-- 📫 How to reach me: quintinp311204@gmail.com.
+- 🌱 Learning DSA, Computer Architecture, Probability & Statistics in Uni. In my own time I research machine learning, data, math, etc.
+- ⚡Currently building a Toy Fraud Scorer/Detector. Check it my repo!
+- 🥳 21
+- 👨🏽‍🏫 Junior at Texas State University San Marcos
+- 📫 How to reach me: quintin.w.peterson@gmail.com
 <!--
 **QuintinPeterson/QuintinPeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
