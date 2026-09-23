@@ -1,5 +1,5 @@
 - 🌱 Learning DSA, Computer Architecture, Probability & Statistics in Uni. In my own time I research machine learning, data, math, etc.
-- ⚡ Currently building a Fraud Transaction Detector using Machine Learning. Check it my repo!
+- ⚡ Currently building a Fraud Transaction Detector using Machine Learning. Check out my repo!
 - 🥳 21
 - 👨🏽‍🏫 Junior at Texas State University San Marcos
 - 📫 How to reach me: quintin.w.peterson@gmail.com
